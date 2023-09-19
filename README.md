@@ -1,4 +1,4 @@
-[!IMPORTANT] En cours de création
+[!WARNING] En cours de création
 
 # Bienvenu dans ce porte folio, chaque branche de ce dépôt représente un bout de projet.
 
